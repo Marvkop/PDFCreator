@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFCreator", "PDFCreator\PDFCreator.csproj", "{CAFD9B65-D077-49AA-9357-1717F13BC262}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{00EF50C5-DF4D-44AA-B9D9-C9C61C694ECC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFD9B65-D077-49AA-9357-1717F13BC262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFD9B65-D077-49AA-9357-1717F13BC262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFD9B65-D077-49AA-9357-1717F13BC262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFD9B65-D077-49AA-9357-1717F13BC262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
